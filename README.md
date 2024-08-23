@@ -1,10 +1,8 @@
 # Caso de Análisis: Campaña de Marketing
 
-**Proyecto Final para Data Science II de Coderhouse**  
-**Lorenzo Guimaraes; Comisión 60895.**
 
 ## Introducción
-Se seleccionó un dataset titulado "Marketing Campaign", el cual contiene información sobre la respuesta de clientes a diversas campañas de marketing de una empresa del sector venta y delivery de alimentos en Brasil.
+Se seleccionó un dataset titulado "Marketing Campaign", el cual contiene información sobre la respuesta de clientes a diversas campañas promocionales en una empresa del sector venta y delivery de alimentos en Brasil. 
 
 ## Objetivo
 El objetivo de este proyecto es, a partir de este conjunto de datos, entrenar un modelo de predicción que nos permita visualizar con anticipación la posibilidad de respuesta de los clientes en una próxima campaña promocional.
