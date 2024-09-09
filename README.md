@@ -1,5 +1,5 @@
 # Caso de Análisis: Campaña de Marketing
-
+![Marketing](https://www.sneakerlost.es/hubfs/Alineacion-ventas-y-marketing-01.png)
 
 ## Introducción
 Se seleccionó un dataset titulado "Marketing Campaign", el cual contiene información sobre la respuesta de clientes a diversas campañas promocionales en una empresa del sector venta y delivery de alimentos en Brasil. 
