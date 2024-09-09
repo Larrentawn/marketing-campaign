@@ -7,12 +7,24 @@ Se seleccionó un dataset titulado "Marketing Campaign", el cual contiene inform
 ## Objetivo
 El objetivo de este proyecto es, a partir de este conjunto de datos, entrenar un modelo de predicción que nos permita visualizar con anticipación la posibilidad de respuesta de los clientes en una próxima campaña promocional.
 
-## Hipótesis
-A partir de un análisis de los datos y el desarrollo de un modelo predictivo ajustado al caso, se podrá inferir y clasificar qué tipos de cliente tienen mayor probabilidad de participar en una campaña promocional, aumentando así la precisión y rendimiento de la próxima campaña de marketing.
-
-## Fuente y Autoría
-- **Fuente de Datos:** [Marketing Campaign - Kaggle](https://www.kaggle.com)  
-- **Referencia:** O. Parr-Rud. *Business Analytics Using SAS Enterprise Guide and SAS Enterprise Miner*. SAS Institute, 2014.
+## Etapas del proyecto
+* Introduccion
+  - Objetivo e hipótesis
+  - Adquisición de datos
+  - Descripción de los datos
+* Análisis exploratorio
+* Data Wrangling
+  - Limpieza de outliers
+  - Manejo de nulos
+* Feature Engeneering
+  - Modificación de columnas y preparación de los datos
+* PCA
+* Entrenamiento de modelos
+  - Árbol de desición
+  - Regresión logística
+  - RandomForest
+* Validación y optimización de modelos
+* Conclusión
 
 ## Descripción de los Datos
 | **Variable**           | **Descripción**                                                           |
@@ -44,3 +56,8 @@ A partir de un análisis de los datos y el desarrollo de un modelo predictivo aj
 | `AcceptedCmp5`         | Si el cliente aceptó la oferta en la quinta campaña (1 = Sí, 2 = No).     |
 | `Complain`             | Si el cliente hizo algún reclamo en los últimos 2 años (1 = Sí, 2 = No).  |
 | `Response`             | Si el cliente aceptó la oferta en la ÚLTIMA campaña (1 = Sí, 2 = No).     |
+
+
+## Fuente y Autoría
+- **Fuente de Datos:** [Marketing Campaign - Kaggle](https://www.kaggle.com)  
+- **Referencia:** O. Parr-Rud. *Business Analytics Using SAS Enterprise Guide and SAS Enterprise Miner*. SAS Institute, 2014.
